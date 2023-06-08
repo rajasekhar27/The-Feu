@@ -1,0 +1,180 @@
+version: "3.9"
+services:
+#  tiar_backend_test_kube:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfile
+#    image: tiar-prod-k123:v1
+#    environment:
+#      - PORT=8020
+#    env_file:
+#      - ./Tiar/.env
+#    ports:
+#      - "8021:8020"
+  # tiar_backend_ws_test_kube:
+  #   build:
+  #     context: ./Tiar
+  #     dockerfile: Dockerfilewebsocket
+  #   image: tiar-prod-ws-k123:v1
+  #   environment:
+  #     - PORT=8021
+  #   env_file:
+  #     - ./Tiar/.env
+  #   ports:
+  #     - "8031:8021"
+
+ fue_website_kube:
+  #  depends_on:
+  #    - tiar_backend_test_kube
+   build:
+     context: ./fue_website_frontend
+     dockerfile: Dockerfile
+   image: fue-website-frontend:v1
+   ports:
+     - "3021:3000"
+
+#  tiar_dashboard_test_kube:
+#    build:
+#      context: ./tiar_dashboard_v3
+#      dockerfile: Dockerfile
+#    image: tiar-dashboard-k123:v1
+#    env_file:
+#      - ./tiar_dashboard_v3/.env
+#    ports:
+#      - "9010:9000"
+
+#  tiar_flower_service:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryflower
+#    image: tiar-prod-flower:v1
+#    environment:
+#      - PORT=5555
+#    env_file:
+#      - ./Tiar/.env
+#    ports:
+#      - "5555:5555"
+
+
+#  tiar_beat_service:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfilecelerybeat
+#    image: tiar-prod-beat:v1
+#    env_file:
+#      - ./Tiar/.env
+
+#  tiar_worker_service_0:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=0
+#    env_file:
+#      - ./Tiar/.env
+
+
+#  tiar_worker_service_1:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=1
+#    env_file:
+#      - ./Tiar/.env
+
+#
+#  tiar_worker_service_2:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=2
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#  tiar_worker_service_3:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=3
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#  tiar_worker_service_4:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=4
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#
+#  tiar_worker_service_5:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=5
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#
+#  tiar_worker_service_6:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=6
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#
+#  tiar_worker_service_7:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=7
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#
+#  tiar_worker_service_8:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=8
+#    env_file:
+#      - ./Tiar/.env
+#
+#
+#
+#  tiar_worker_service_9:
+#    build:
+#      context: ./Tiar
+#      dockerfile: Dockerfileceleryworker
+#    image: tiar-prod-worker:v1
+#    environment:
+#      - NUM=9
+#    env_file:
+#      - ./Tiar/.env
+#

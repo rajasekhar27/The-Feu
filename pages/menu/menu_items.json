@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 58,
+    "title": "THAI NEW MENU",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "PRAWN SPRINGROLL WITH PLUM SAUCE",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "GRILLED CHICKEN , CHILLI BASIL SAUCE WITH RICE AND FRIED EGG",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "PHAD CHA TENDERLOIN",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "SPICY MOCK MEAT THAI CHILLI PASTE ( VEG )",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "WOK FRIED RICE ,YELLOW BEAN ( VEG )",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "RAAD NHA VEG (GRAVY WITH RICE NOODLES)",
+        "amount": "500",
+        "ingredients": "THAI DESSERTS"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "THAI DESSERTS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "DURAIN STICKY RICE",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "LEMON GRASS CREME BRULEE",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "THAI STREET DESSERT",
+        "amount": "550",
+        "ingredients": "( MANGO AND STICKY RICE PUDDING )"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "SUMMER COCKTAILS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "QUAFFINE",
+        "amount": "600",
+        "ingredients": "BLENDED WHISKY, COFFEE , ORANGE INFUSED CINNAMON SYRUP"
+      },
+      {
+        "id": 2,
+        "title": "COCO LOCO",
+        "amount": "600",
+        "ingredients": "WHITE RUM, PINEAPPLE  &  MAPLE SYRUP , COCONUT  WATER , LIME JC , SIMPLE SYRUP ,INDIAN SPICE"
+      },
+      {
+        "id": 3,
+        "title": "PICK ME UP",
+        "amount": "600",
+        "ingredients": "TEQUILA, CLARIFIED ORANGE , MARMALADE, JALAPENO & PASSION FRUIT"
+      },
+      {
+        "id": 4,
+        "title": "ASIAN GARDEN",
+        "amount": "600",
+        "ingredients": "GIN , LITCHI, LEMON GRASS SYRUP, CLOVE BITTER, BASIL , LIMEJC , SIMPLE SYRUP , SODA"
+      },
+      {
+        "id": 5,
+        "title": "MELODY MANGO",
+        "amount": "600",
+        "ingredients": "GIN , RAW MANGO, CILANTRO, LIME JC, SIMPLE  SYRUP , HOMEMADE MASALA"
+      },
+      {
+        "id": 6,
+        "title": "CITRUS HEART",
+        "amount": "600",
+        "ingredients": "GIN , GRAPE FRUIT , LIME JC , SIMPLE SYRUP"
+      },
+      {
+        "id": 7,
+        "title": "RED LADY",
+        "amount": "600",
+        "ingredients": "APEROL , GIN , RASPBERRY , LIMEJC , SIMPLE SYRUP"
+      },
+      {
+        "id": 8,
+        "title": "ICE APPLE  SHOT",
+        "amount": "600",
+        "ingredients": "CHOICE OF ALCOHOL ( VODKA , GIN , TEQUILA )"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "BREAKFAST",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Avocado on Toast",
+        "amount": "500",
+        "ingredients": "Guacamole served on sour dough bread"
+      },
+      {
+        "id": 2,
+        "title": "Scrambled Tofu",
+        "amount": "375",
+        "ingredients": "Silknon Tofu scrambled with spinach and bellpeppers"
+      },
+      {
+        "id": 3,
+        "title": "Egg Benedict",
+        "amount": "425",
+        "ingredients": "Poached egg on the bed of chicken salami and brioche bread with creamy hollandaise sauce"
+      },
+      {
+        "id": 4,
+        "title": "Scrambled Egg",
+        "amount": "375",
+        "ingredients": "Egg preparation with cream and milk"
+      },
+      {
+        "id": 5,
+        "title": "Queen of simplicity",
+        "amount": "550",
+        "ingredients": "Egg white omelette with bacon, cheese and mixed greens (Choice of Bread)"
+      },
+      {
+        "id": 6,
+        "title": "Mexican Omelette",
+        "amount": "550",
+        "ingredients": "Tortilla bread, fried egg, avocado, ranchero sauce, cream cheese"
+      },
+      {
+        "id": 7,
+        "title": "Egg Florentine",
+        "amount": "400",
+        "ingredients": "Poached egg on the bed of spinach and brioche bread with creamy hollandaise sauce"
+      },
+      {
+        "id": 8,
+        "title": "Poached egg on avocado",
+        "amount": "675",
+        "ingredients": "Egg preparation on the base of toast bread and avocado guacamole"
+      },
+      {
+        "id": 9,
+        "title": "Truffle oil, cheese and Mushroom Omelette",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Omelette preparation with mushroom and three cheese truffle oil (Choice of Bread)",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "DIY Omelette",
+        "amount": "1",
+        "ingredients": "Choice of omelette (Choice of Bread)"
+      },
+      {
+        "id": 12,
+        "title": "Chicken sausage",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "Grilled chicken",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 14,
+        "title": "Masala",
+        "amount": "125",
+        "ingredients": "-"
+      },
+      {
+        "id": 15,
+        "title": "Cheese",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 16,
+        "title": "Mushroom & spinach",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 17,
+        "title": "Ham",
+        "amount": "175",
+        "ingredients": "-"
+      },
+      {
+        "id": 18,
+        "title": "Bacon",
+        "amount": "200",
+        "ingredients": "WAFFLES & PANCAKES"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "WAFFLES & PANCAKES",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Plain with fresh berries",
+        "amount": "450",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Dark chocolate with caramelized marshmallow",
+        "amount": "475",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Nutella with caramelized banana",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "French Toast",
+        "amount": "400",
+        "ingredients": "Shokupan bread dipped in a rich egg less batter"
+      },
+      {
+        "id": 5,
+        "title": "Ice cream scoop each",
+        "amount": "150",
+        "ingredients": "Hazelnut, roasted almonds, strawberry, vanilla Coconut and Black sesame"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "SMOOTHIE BOWLS",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Berry Smoothie",
+        "amount": "600",
+        "ingredients": "Mixed berries, milk, honey, garnished with muesli"
+      },
+      {
+        "id": 2,
+        "title": "Oats & Dates Smoothie",
+        "amount": "450",
+        "ingredients": "Smoothie made with oats, dates and banana"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "BURGERS & SANDWICHES",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Croissant",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Chocolate Croissant",
+        "amount": "175",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Plain Croissant",
+        "amount": "200",
+        "ingredients": "(Served with butter and jam)"
+      },
+      {
+        "id": 4,
+        "title": "Bagel with plain cream cheese",
+        "amount": "225",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Mix vegetable with cream cheese",
+        "amount": "275",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Cranberry with cream cheese",
+        "amount": "275",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Sun dried tomato with cream cheese",
+        "amount": "275",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Exotic veg bagel",
+        "amount": "375",
+        "ingredients": "Cream cheese, lettuce, sauteed mixed vegetable"
+      },
+      {
+        "id": 9,
+        "title": "Caesar bagel",
+        "amount": "450",
+        "ingredients": "Cream cheese, caesar lettuce, grilled chicken, bacon, caesar dressing"
+      },
+      {
+        "id": 10,
+        "title": "Tomato & Mozzarella Bagel",
+        "amount": "350",
+        "ingredients": "Cream cheese, fresh mozzarella and tomato"
+      },
+      {
+        "id": 11,
+        "title": "Egg, ham & bacon bagel",
+        "amount": "550",
+        "ingredients": "Cream cheese, bacon, ham, fried egg, cheese slice"
+      },
+      {
+        "id": 12,
+        "title": "Smoked salmon California bagel",
+        "amount": "675",
+        "ingredients": "Cream cheese, lettuce, avocado, smoked salmon, fried egg, salsa"
+      },
+      {
+        "id": 13,
+        "title": "Buffalo Chicken Burger",
+        "amount": "600",
+        "ingredients": "Grilled chicken marinated with homemade buffalo sauce"
+      },
+      {
+        "id": 14,
+        "title": "Curry Pie Lamb Burger",
+        "amount": "700",
+        "ingredients": "Ground lamb meat, peri peri onion and cheese"
+      },
+      {
+        "id": 15,
+        "title": "Classic ham burger",
+        "amount": "700",
+        "ingredients": "Ground beef, bacon caramelized onion, gherkin and cheese"
+      },
+      {
+        "id": 16,
+        "title": "Crispy asian mushroom burger",
+        "amount": "600",
+        "ingredients": "Exotic mushroom patty, truffle mayo, cheese and lettuce"
+      },
+      {
+        "id": 17,
+        "title": "Crumb fried chicken, Fried egg, cheese,mayo, takuwan pickles",
+        "amount": "600",
+        "ingredients": "BURGERS & SANDWICHES Non-Veg"
+      },
+      {
+        "id": 18,
+        "title": "peri peri exotic vegetable Sandwich",
+        "amount": "550",
+        "ingredients": "peri peri marinated exotic vegetables and cheese in crpoissant"
+      },
+      {
+        "id": 19,
+        "title": "Grilled Vegetarian Sandwich",
+        "amount": "475",
+        "ingredients": "grilled zucchini, pepper, brocoli, carrots lettuce in multigrain bread"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "BURGERS & SANDWICHES Non-Veg",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Vietnamese Banh - mi",
+        "amount": "500/550/650",
+        "ingredients": "(Grilled Chicken, Beef & Pork) Classic Vietnamese sandwich with soft French baguette, grilled meat, coriander scallion and in house spicy sauce"
+      },
+      {
+        "id": 2,
+        "title": "Cajun spiced chicken",
+        "amount": "600",
+        "ingredients": "Chicken tossed in Cajun spice, on a bed of gherkins, jalapenos, lettuce served in croissant"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "SOUPS & SALADS",
+    "type": "Weekdays (11am to 5pm) Weekend (8am to 5pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Mushroom Cappuccino Soup",
+        "amount": "375",
+        "ingredients": "Shiitake mushroom, button mushroom, cream with garlic bread"
+      },
+      {
+        "id": 2,
+        "title": "Miso Soup",
+        "amount": "295",
+        "ingredients": "Traditional Japanese soup, with tofu, wakame seaweed, scallions"
+      },
+      {
+        "id": 3,
+        "title": "Tom Yam",
+        "amount": "350",
+        "ingredients": "Thai style spicy & sour soup with fresh herbs"
+      },
+      {
+        "id": 4,
+        "title": "Clear Soup, Silken Tofu",
+        "amount": "350",
+        "ingredients": "Clear soup with carrot, cabbage, black fungus, mushroom, garlic, spring onion, glass noodle and silken tofu"
+      },
+      {
+        "id": 5,
+        "title": "Tom Kha",
+        "amount": "375",
+        "ingredients": "Spicy coconut soup with Thai herbs"
+      },
+      {
+        "id": 6,
+        "title": "ADD-ONS:",
+        "amount": "125/150",
+        "ingredients": "Chicken,Prawn"
+      },
+      {
+        "id": 7,
+        "title": "Asian Chicken Salad",
+        "amount": "550",
+        "ingredients": "Crispy fried chicken, onions, tomatoes, fresh herbs tossed with spicy chilli dressing"
+      },
+      {
+        "id": 8,
+        "title": "Crispy Papaya With Veg / Prawn Katsu",
+        "amount": "500/600",
+        "ingredients": "Crispy papaya, crumbed fried prawn served with som tam dressing"
+      },
+      {
+        "id": 9,
+        "title": "Caesar salad with garlic croutons and parmesan crisp",
+        "amount": "450",
+        "ingredients": "Iceberg, romaine, parmesan, caesar dressing and garlic croutons (Veg / Non Veg)"
+      },
+      {
+        "id": 10,
+        "title": "Spicy Crispy Tofu Salad",
+        "amount": "550",
+        "ingredients": "Crispy tofu tossed with tomatoes, celery, onion and in house spicy sauce"
+      },
+      {
+        "id": 11,
+        "title": "Silken tofu, avocado with sesame dressing salad",
+        "amount": "600",
+        "ingredients": "Chef special salad with silken tofu, avocado, garden lettuce and sesame dressing"
+      },
+      {
+        "id": 12,
+        "title": "Papaya salad",
+        "amount": "400",
+        "ingredients": "Shredded raw papaya with peanuts, long beans cherry tomatoes, sweet & sour dressing"
+      },
+      {
+        "id": 13,
+        "title": "Spicy raw mango salad (Seasonal)",
+        "amount": "400",
+        "ingredients": "Crunchy raw mango salad, cashew nut onion served with sweet chilly dressing"
+      },
+      {
+        "id": 14,
+        "title": "Berry salad",
+        "amount": "550",
+        "ingredients": "Fresh berries, orange, arugula, artichoke, feta crumble and strawberry vinaigrette"
+      },
+      {
+        "id": 15,
+        "title": "Add-ons:",
+        "amount": "100/150/200",
+        "ingredients": "Veg , Chicken, Bacon"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "VEG-SUSHI",
+    "type": "Chef Special (12-3.30 & 7PM to 11.30PM)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Greenhouse California roll",
+        "amount": "850",
+        "ingredients": "Avocado, asparagus, cucumber, cream cheese and sesame dressing"
+      },
+      {
+        "id": 2,
+        "title": "Mushroom tempura roll truffle mayo",
+        "amount": "850",
+        "ingredients": "Tempura fried mushroom, Truffle mayo"
+      },
+      {
+        "id": 3,
+        "title": "Kinu tofu Carpaccio",
+        "amount": "750",
+        "ingredients": "Thin slices of silken kinu tofu, spicy gochujang sauce, ginger, scallions, jalapenos"
+      },
+      {
+        "id": 4,
+        "title": "Crunchy Avocado maki roll",
+        "amount": "675",
+        "ingredients": "New Zealand avocado, tempura crumbs, veg mayo, scallions"
+      },
+      {
+        "id": 5,
+        "title": "Asparagus maki roll",
+        "amount": "575",
+        "ingredients": "Fresh Thai asparagus"
+      },
+      {
+        "id": 6,
+        "title": "Avocado maki roll",
+        "amount": "675",
+        "ingredients": "New Zealand avocado"
+      },
+      {
+        "id": 7,
+        "title": "Avocado cream cheese maki roll",
+        "amount": "725",
+        "ingredients": "Fresh Thai asparagus, cream cheese"
+      },
+      {
+        "id": 8,
+        "title": "Asparagus cream cheese maki roll",
+        "amount": "600",
+        "ingredients": "New Zealand avocado, cream cheese"
+      },
+      {
+        "id": 9,
+        "title": "Asparagus tempura maki roll",
+        "amount": "550",
+        "ingredients": "Tempura fried asparagus, Gochujang sauce, spicy togarashi mayo"
+      },
+      {
+        "id": 10,
+        "title": "Nigiri (2pc)",
+        "amount": "1",
+        "ingredients": "A thin slice of vegetable is layered on top of vinegary rice"
+      },
+      {
+        "id": 11,
+        "title": "Avocado ",
+        "amount": "400",
+        "ingredients": "-"
+      },
+      {
+        "id": 12,
+        "title": "Asparagus",
+        "amount": "325",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "Tomato & cream cheese",
+        "amount": "325",
+        "ingredients": "NON-VEG SUSHI"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "NON-VEG SUSHI",
+    "type": "Chef Special (12-3.30 & 7PM to 11.30PM)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Spider Roll",
+        "amount": "950",
+        "ingredients": "Soft shell crab tempura, avocado, tobikko (flying fish roe) and spicy mayo"
+      },
+      {
+        "id": 2,
+        "title": "Dragon roll",
+        "amount": "990",
+        "ingredients": "Salmon, avocado, shrimp tempura, teriyaki sauce"
+      },
+      {
+        "id": 3,
+        "title": "Chicken katsu roll",
+        "amount": "750",
+        "ingredients": "Panko fried chicken, cream cheese, tonkatsu sauce"
+      },
+      {
+        "id": 4,
+        "title": "Norwegian roll",
+        "amount": "1099",
+        "ingredients": "Salmon, avocado, cream cheese, tobikko (flying fish roe) and spring onion"
+      },
+      {
+        "id": 5,
+        "title": "Salmon carpaccio, wasabi ponzu, jalapenos",
+        "amount": "990",
+        "ingredients": "Thin slice of salmon fish with on the top wasabi ponzu"
+      },
+      {
+        "id": 6,
+        "title": "Tuna tataki, soy flavour onion and ponzu dressing",
+        "amount": "1099",
+        "ingredients": "Gently seared tuna with soy flavour onion, ponzu dressing and crispy leeks"
+      },
+      {
+        "id": 7,
+        "title": "Shrimp tempura maki roll",
+        "amount": "675",
+        "ingredients": "Tempura fried shrimps, spicy togarashi mayo"
+      },
+      {
+        "id": 8,
+        "title": "California maki roll",
+        "amount": "750",
+        "ingredients": "Crab sticks, avocado, Tobikko (flying fish roe), wasabi mayo"
+      },
+      {
+        "id": 9,
+        "title": "Tuna maki roll",
+        "amount": "850",
+        "ingredients": "Fresh tuna akami"
+      },
+      {
+        "id": 10,
+        "title": "Salmon maki roll",
+        "amount": "850",
+        "ingredients": "Fresh norwegian salmon"
+      },
+      {
+        "id": 11,
+        "title": "Tuna maki roll",
+        "amount": "850",
+        "ingredients": "Fresh tuna akami, home made spicy sauce, scallions"
+      },
+      {
+        "id": 12,
+        "title": "Salmon maki roll",
+        "amount": "850",
+        "ingredients": "Fresh Norwegian salmon, home made spicy sauce, scallions"
+      },
+      {
+        "id": 13,
+        "title": "Crunchy tuna maki roll",
+        "amount": "850",
+        "ingredients": "Fresh tuna akami, tempura crumbs, kewpie mayo, scallions"
+      },
+      {
+        "id": 14,
+        "title": "Salmon",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 15,
+        "title": "Tuna akami",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 16,
+        "title": "Crab stick",
+        "amount": "450",
+        "ingredients": "Sashimi (3pc)"
+      },
+      {
+        "id": 17,
+        "title": "Salmon",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 18,
+        "title": "Tuna akami",
+        "amount": "600",
+        "ingredients": "-"
+      },
+      {
+        "id": 19,
+        "title": "Crab stick",
+        "amount": "500",
+        "ingredients": "VEG-APPETISERS"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "VEG-APPETISERS",
+    "type": "-",
+    "values": [
+      {
+        "id": 1,
+        "title": "Deep fried Mock meat lemongrass",
+        "amount": "475",
+        "ingredients": "Crispy fried soy chap with lemongrass marination and served with spicy sauce"
+      },
+      {
+        "id": 2,
+        "title": "Veg Wanton In Chilli Oil",
+        "amount": "475",
+        "ingredients": "Steamed wonton served with sichuan oil, garlic and scallion"
+      },
+      {
+        "id": 3,
+        "title": "Kratong Thong, spicy Mushroom",
+        "amount": "500",
+        "ingredients": "Philo pastry tarts stuffed with spicy mushroom"
+      },
+      {
+        "id": 4,
+        "title": "Steam edamame",
+        "amount": "450",
+        "ingredients": "Fresh edamame preparation with pod in different flavour"
+      },
+      {
+        "id": 5,
+        "title": "Salted",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Spicy",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Truffle",
+        "amount": "575",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Mushroom gyoza",
+        "amount": "475",
+        "ingredients": "Japanese Pan fried mushroom Dumpling served with chilli ponzu"
+      },
+      {
+        "id": 9,
+        "title": "Crispy sweet corn cake with red curry",
+        "amount": "450",
+        "ingredients": "Deep fried sweet corn cakes with red curry paste"
+      },
+      {
+        "id": 10,
+        "title": "Thai veg spring roll",
+        "amount": "450",
+        "ingredients": "Thai style vegetable crispy roll served with sweet chilli sauce"
+      },
+      {
+        "id": 11,
+        "title": "Crunchy water chestnut",
+        "amount": "450",
+        "ingredients": "Deep fried water chestnut tossed with chilli and basil"
+      },
+      {
+        "id": 12,
+        "title": "Larb Tofu Spring roll, spicy chilli dip",
+        "amount": "450",
+        "ingredients": "Deep fried tofu, mint leaf, onion, coriander, lemon juice, sticky rice powder"
+      },
+      {
+        "id": 13,
+        "title": "Okonomiyaki",
+        "amount": "450",
+        "ingredients": "Japanese style savory pancakes with vegetables topped with mayonnaise. Tonkatsu sauce, pickled ginger and tempura crumbs"
+      },
+      {
+        "id": 14,
+        "title": "Crispy lotus stem",
+        "amount": "450",
+        "ingredients": "Fried lotus stem tossed with plum sauce"
+      },
+      {
+        "id": 15,
+        "title": "Crispy corn chilly pepper",
+        "amount": "425",
+        "ingredients": "Crispy fried corn tossed with chilli pepper"
+      },
+      {
+        "id": 16,
+        "title": "Lebanese mini platter",
+        "amount": "500",
+        "ingredients": "Mini pita bread served with hummus, tzatziki, pickled vegetable and falafel"
+      },
+      {
+        "id": 17,
+        "title": "Grilled cottage cheese skewer",
+        "amount": "475",
+        "ingredients": "Cottage cheese marinated in jerk spice and tri peppers"
+      },
+      {
+        "id": 18,
+        "title": "Cheese garlic bread",
+        "amount": "425",
+        "ingredients": "Garlic bread with mozzarella cheese"
+      },
+      {
+        "id": 19,
+        "title": "garlic bread",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 20,
+        "title": "Salted french fries/wedges",
+        "amount": "325",
+        "ingredients": "-"
+      },
+      {
+        "id": 21,
+        "title": "Peri peri french fries/wedges",
+        "amount": "375",
+        "ingredients": "NON-VEG APPETISERS"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "NON-VEG APPETISERS",
+    "type": "-",
+    "values": [
+      {
+        "id": 1,
+        "title": "Sliced Grilled Chicken With Spicy Sauce",
+        "amount": "550",
+        "ingredients": "(Bhut Jolo Kia) Chilli Marinated chicken Served With Spicy Sauce"
+      },
+      {
+        "id": 2,
+        "title": "Hunan lamb",
+        "amount": "650",
+        "ingredients": "Stir fry lamb tossed in dry chilli, scallion, peppers and sichuan pepper,corn,with sesame oil"
+      },
+      {
+        "id": 3,
+        "title": "Okonomiyaki (Chicken/Sea Food)",
+        "amount": "575/650",
+        "ingredients": "Japanese style savory pancakes with vegetables topped with mayonnaise, tonkatsu sauce, pickled ginger and tempur crumbs"
+      },
+      {
+        "id": 4,
+        "title": "Chicken karaage",
+        "amount": "550",
+        "ingredients": "chicken marinated with soy sauce, mirin, ginger and crispy fried and served with gochujang dare"
+      },
+      {
+        "id": 5,
+        "title": "Chicken Wanton in Chilli Oil",
+        "amount": "525",
+        "ingredients": "Steamed wonton served with spicy sichuan oil, garlic and scallion"
+      },
+      {
+        "id": 6,
+        "title": "Sichuan Tenderloin/chicken",
+        "amount": "600/550",
+        "ingredients": "stir fried tenderloin/chicken with garlic, chilli oil, sichuan pepper corn and scallions"
+      },
+      {
+        "id": 7,
+        "title": "Chicken Yakitori skewer",
+        "amount": "550",
+        "ingredients": "Grilled Chicken skewers with teriyaki sauce."
+      },
+      {
+        "id": 8,
+        "title": "Chicken Gyoza",
+        "amount": "525",
+        "ingredients": "Japanese Pan fried chicken Dumpling served with chilli ponzu dip"
+      },
+      {
+        "id": 9,
+        "title": "Deep fried chicken lemongrass",
+        "amount": "550",
+        "ingredients": "Crispy fried chicken tenders marinated with lemongrass and served with sweet chilli sauce."
+      },
+      {
+        "id": 10,
+        "title": "Ginger / Schezwan Chicken",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "spicy chicken wings",
+        "amount": "550",
+        "ingredients": "chicken wings cooked in home made spicy buffalo sauce"
+      },
+      {
+        "id": 12,
+        "title": "Southern Fried Chicken",
+        "amount": "550",
+        "ingredients": "Classic American crumb coated deep fried chicken"
+      },
+      {
+        "id": 13,
+        "title": "Chicken Popcorn",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 14,
+        "title": "Seafood kushi katsu",
+        "amount": "675",
+        "ingredients": "Panko fried prawns, squids, fish, tonkatsu sauce, japanese style tarter sauce"
+      },
+      {
+        "id": 15,
+        "title": "Chilly Garlic Prawn (spicy)",
+        "amount": "625",
+        "ingredients": "(Fried Prawn tossed with garlic and chili with red pepper)"
+      },
+      {
+        "id": 16,
+        "title": "Prawn Spring Roll",
+        "amount": "600",
+        "ingredients": "Thai Style Crispy prawn Roll Served with Sweet chilli sauce"
+      },
+      {
+        "id": 17,
+        "title": "Wasabi Prawn",
+        "amount": "625",
+        "ingredients": "Deep fried tempura prawns tossed with wasabi mayo"
+      },
+      {
+        "id": 18,
+        "title": "Crispy Calamari",
+        "amount": "600",
+        "ingredients": "Deep fried tempura calamari served with spicy mayo"
+      },
+      {
+        "id": 19,
+        "title": "Parmesan Fish And Chips",
+        "amount": "575",
+        "ingredients": "-"
+      },
+      {
+        "id": 20,
+        "title": "Crunchy Soft Shell Crab Chilli Garlic",
+        "amount": "900",
+        "ingredients": "wok tossed crispy soft shell crab with chilli and garlic"
+      },
+      {
+        "id": 21,
+        "title": "Spicy Grilled Pork",
+        "amount": "650",
+        "ingredients": "Grilled Belgium pork belly marinated with in house spices, chilli and garlic"
+      },
+      {
+        "id": 22,
+        "title": "Wok Fried Pork Spare Ribs, chilli Garlic",
+        "amount": "600",
+        "ingredients": "wok tossed pork spare ribs with chilli and garlic"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "TACOS APPETIZERS",
+    "type": "Soft shell or hard shell",
+    "values": [
+      {
+        "id": 1,
+        "title": "chipotle mix veg & sweet potatoes",
+        "amount": "500",
+        "ingredients": "picop de gallo, sour cream, avocado and scallions"
+      },
+      {
+        "id": 2,
+        "title": "grilled fish",
+        "amount": "650",
+        "ingredients": "guajillo rubbed fish, lemon mayonnaise, grilled pineapple, guacamole"
+      },
+      {
+        "id": 3,
+        "title": "chipotle prawns",
+        "amount": "650",
+        "ingredients": "chipotle prawns, pickeled onions, avocado , smokey tomato salsa"
+      },
+      {
+        "id": 4,
+        "title": "al pastor chicken",
+        "amount": "650",
+        "ingredients": "pulled chicken, smokey tomato salsa, pico de gallo and avocado"
+      },
+      {
+        "id": 5,
+        "title": "gaujillo lamb",
+        "amount": "750",
+        "ingredients": "guajillo braided lamb, arbol chilli salsa, onions and cilantro"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "MEXICAN APPETISERS",
+    "type": "-",
+    "values": [
+      {
+        "id": 1,
+        "title": "chips & salsa",
+        "amount": "450",
+        "ingredients": "Homemade tortilla chips served with smoked tomato salsa, green chilli salsa, arbol chilli salsa"
+      },
+      {
+        "id": 2,
+        "title": "Gaucamole",
+        "amount": "800",
+        "ingredients": "hass avocado Guacamole served with homemade tortilla chips"
+      },
+      {
+        "id": 3,
+        "title": "Esquites",
+        "amount": "450",
+        "ingredients": "Mexican street style roasted corn with jalapeno's, onions, chilly and sour cream"
+      },
+      {
+        "id": 4,
+        "title": "nachos (veg & corn/chicken/pulled pork)",
+        "amount": "500/600/700",
+        "ingredients": "Homemade tortilla chips topped with refried beans, guacamole, cheese and Pico de Gallo"
+      },
+      {
+        "id": 5,
+        "title": "Gambas al ajilo",
+        "amount": "700",
+        "ingredients": "Prawns, olive oil, garlic, chillies with toasted bread"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "GRILLS APPETISERS",
+    "type": "NEW ON THE MENU",
+    "values": [
+      {
+        "id": 1,
+        "title": "POMMERY FISH",
+        "amount": "575",
+        "ingredients": "Mustard marinated fish served with olive tapenade"
+      },
+      {
+        "id": 2,
+        "title": "BACON WRAPPED CHICKEN",
+        "amount": "650",
+        "ingredients": "Chicken Wrapped in bacon strips srtved with spicy smoked tomato salsa"
+      },
+      {
+        "id": 3,
+        "title": "LAMB ON PITA",
+        "amount": "650",
+        "ingredients": "Spiced lamb patties served with dips and pickled vegetabels."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "VEG-PIZZA 12\"",
+    "type": "NEW ON THE MENU",
+    "values": [
+      {
+        "id": 1,
+        "title": "Pizza primavera",
+        "amount": "625",
+        "ingredients": "Tomato sauce, cheese, zucchini, bell pepper, onion, mushroom, corn, arugula and olives"
+      },
+      {
+        "id": 2,
+        "title": "Pizza margherita",
+        "amount": "550",
+        "ingredients": "Buffalo mozzarella, tomato, basil"
+      },
+      {
+        "id": 3,
+        "title": "Hot & spicy cottage cheese",
+        "amount": "675",
+        "ingredients": "Peppers, zucchini, cottage cheese, onion and mozzarella cheese"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "NON-VEG PIZZA 12\"",
+    "type": "NEW ON THE MENU",
+    "values": [
+      {
+        "id": 1,
+        "title": "Peri peri chicken pizza",
+        "amount": "675",
+        "ingredients": "Cheese, onion, peppers and peri peri chicken"
+      },
+      {
+        "id": 2,
+        "title": "Barbecue chicken pizza",
+        "amount": "675",
+        "ingredients": "BBQ chicken, mozzarella, onion and feta cheese"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "PASTA",
+    "type": "CHOICE OF PASTA - SPAGHETTI OR PENNE",
+    "values": [
+      {
+        "id": 1,
+        "title": "Basil pesto aglio e olio",
+        "amount": "525",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Pomodoro",
+        "amount": "525",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Lamb Bolognese",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Pink Sauce Pasta",
+        "amount": "525",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Alfredo",
+        "amount": "525",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Mac & Cheese",
+        "amount": "525",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Chicken",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Prawns",
+        "amount": "175",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Bacon",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Exotic Vegetables",
+        "amount": "125",
+        "ingredients": "CONTINENTAL BOWLS"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "CONTINENTAL BOWLS",
+    "type": "Served with Rice or Quinoa / Chicken Or Tofu",
+    "values": [
+      {
+        "id": 1,
+        "title": "Mexican bowl",
+        "amount": "675",
+        "ingredients": "Black bean sauce, salsa, corn, jalapeño, sour cream, guacamole"
+      },
+      {
+        "id": 2,
+        "title": "Oven roasted chicken with red wine jus",
+        "amount": "650",
+        "ingredients": "Oven roasted chicken, mixed veg, herb rice or green peas mash potato"
+      },
+      {
+        "id": 3,
+        "title": "Pan seared cilantro fish",
+        "amount": "675",
+        "ingredients": "Cilantro marinated basa fish, exotic vegetables, rice or green peas mash potato"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "MEXICAN MAINS CONTINENTAL BOWLS",
+    "type": "-",
+    "values": [
+      {
+        "id": 1,
+        "title": "veggies",
+        "amount": "575",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "chicken",
+        "amount": "675",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "lamb",
+        "amount": "800",
+        "ingredients": "enchilada"
+      },
+      {
+        "id": 4,
+        "title": "veggies",
+        "amount": "575",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "chicken",
+        "amount": "675",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "lamb",
+        "amount": "800",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "veracruz fish",
+        "amount": "650",
+        "ingredients": "grilled fish with in-house tomato sauce, olives, caper and cilantro served with mexican pilaf"
+      },
+      {
+        "id": 8,
+        "title": "habanero prawns",
+        "amount": "700",
+        "ingredients": "habanero chilli tossed prawns, mixed peppers, mexican pilaf rice"
+      },
+      {
+        "id": 9,
+        "title": "chipotle paneer stake",
+        "amount": "600",
+        "ingredients": "grilleed paneer steak, chipotle chilli sauce, mexican pilaf rice"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "GRILLS CONTINENTAL BOWLS",
+    "type": "NEW ON THE MENU",
+    "values": [
+      {
+        "id": 1,
+        "title": "Grilled chicken with green pepper & mushroom jus",
+        "amount": "650",
+        "ingredients": "Chicken served with herb rice/plain/green peas mash potato"
+      },
+      {
+        "id": 2,
+        "title": "SPICY GRILLED ATLANTIC SALMON",
+        "amount": "1950",
+        "ingredients": "Salmon served with herb rice/plain/green peas mashed potato"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "VEG-ORIENTAL",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Masaman grilled mockmeat with crispy roti or jasmine rice",
+        "amount": "600",
+        "ingredients": "grilled mockmeat, massaman curry cooked with exotic vegetables"
+      },
+      {
+        "id": 2,
+        "title": "Spicy baby potato, chilli black bean sauce",
+        "amount": "475",
+        "ingredients": "Stir fried baby potato and diced onion tossed in chilli black bean sauce"
+      },
+      {
+        "id": 3,
+        "title": "Stir fried seasonal vegetable",
+        "amount": "475",
+        "ingredients": "Wok tossed exotic veggies with garlic soy sauce"
+      },
+      {
+        "id": 4,
+        "title": "Stir fried tofu cashew nut, chili basil",
+        "amount": "550",
+        "ingredients": "Stir fried firm tofu with cashewnut in chilli and basil sauce"
+      },
+      {
+        "id": 5,
+        "title": "Green Thai curry served with Jasmine Rice",
+        "amount": "600",
+        "ingredients": "Thai green curry cooked with exotic veg, basil and coconut milk"
+      },
+      {
+        "id": 6,
+        "title": "Red Thai curry served with Jasmine Rice",
+        "amount": "600",
+        "ingredients": "Red green curry cooked with exotic veg, basil and coconut milk"
+      },
+      {
+        "id": 7,
+        "title": "Chicken",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Prawns",
+        "amount": "175",
+        "ingredients": "NON-VEG ORIENTAL"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "NON-VEG ORIENTAL",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Wok fried stew tenderloin chili basil",
+        "amount": "600",
+        "ingredients": "stewed tenderlion tossed with traditional chilli and basil sauce"
+      },
+      {
+        "id": 2,
+        "title": "Masaman grilled chicken with crispy roti or jasmine rice",
+        "amount": "700",
+        "ingredients": "grilled chicken thigh with skin, massaman curry cooked with exotic vegetables"
+      },
+      {
+        "id": 3,
+        "title": "Spicy minced chicken, basil",
+        "amount": "550",
+        "ingredients": "Stir fried minced chicken with chilli and basil"
+      },
+      {
+        "id": 4,
+        "title": "Stir fried chicken cashew nut",
+        "amount": "575",
+        "ingredients": "Wok tossed chicken with garlic soy sauce with cashew nut"
+      },
+      {
+        "id": 5,
+        "title": "Stir fried prawn Thai chilli paste",
+        "amount": "650",
+        "ingredients": "Wok tossed prawn with thai chilli paste"
+      },
+      {
+        "id": 6,
+        "title": "Wok fried lamb, chilli black bean",
+        "amount": "700",
+        "ingredients": "Wok fried lamb in chilli black bean sauce"
+      },
+      {
+        "id": 7,
+        "title": "Crispy seabass",
+        "amount": "850",
+        "ingredients": "Topped up with spicy pineapple sauce / black been sauce / chilli basil sauce with coriander sprigs"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "VEG-DONBURI",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Japanese Curry, veg katsu",
+        "amount": "650",
+        "ingredients": "Japanese style curry with Panko fried vegetables, steamed rice and pickles"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "NON-VEG DONBURI",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Hainanese chicken Rice (Boiled chicken / Grilled chicken)",
+        "amount": "650",
+        "ingredients": "Traditional style cooked steamed chicken served with rice cooked in chicken broth, spicy dip and clear soup"
+      },
+      {
+        "id": 2,
+        "title": "Gyudon (Beef)",
+        "amount": "700",
+        "ingredients": "Tenderlion cooked with onion, Japanese soy sauce, mirin and served with steamed Japanese rice and poached egg"
+      },
+      {
+        "id": 3,
+        "title": "Shogayaki pork",
+        "amount": "725",
+        "ingredients": "Stir fried pork with ginger, onions, Japanese soy sauce,mirin and served with steamed Japanese rice and poached egg"
+      },
+      {
+        "id": 4,
+        "title": "Japanese Curry, Chicken Katsu",
+        "amount": "700",
+        "ingredients": "Japanese style curry with Panko fried chicken, steamed rice and pickles"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "RICE",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Kao phad kra prow",
+        "amount": "500",
+        "ingredients": "Thai style spicy fried rice with veggies, chillies and basil"
+      },
+      {
+        "id": 2,
+        "title": "Truffle Edamame rice (veg / egg / chicken)",
+        "amount": "550/575/599",
+        "ingredients": "stir fried rice with edamame"
+      },
+      {
+        "id": 3,
+        "title": "Garlic rice",
+        "amount": "500",
+        "ingredients": "Fried rice with, garlic, spring onions and butter"
+      },
+      {
+        "id": 4,
+        "title": "Thai fried rice",
+        "amount": "500",
+        "ingredients": "Traditional Thai style fried rice with onions, tomatoes and egg"
+      },
+      {
+        "id": 5,
+        "title": "Chilli Garlic Fried Rice",
+        "amount": "500",
+        "ingredients": "Wok fried basmati rice tossed with garlic and chilly with exotic veg"
+      },
+      {
+        "id": 6,
+        "title": "Steam Jasmine Rice",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Chicken",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Prawns",
+        "amount": "175",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Egg",
+        "amount": "100",
+        "ingredients": "RAMEN BOWLS"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "RAMEN BOWLS",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Boat Noodle soup (Rice Noodle)",
+        "amount": "500",
+        "ingredients": "The noodles cooked in aromatic broth of garlic, five spices , coriander and soya sauce"
+      },
+      {
+        "id": 2,
+        "title": "Chicken",
+        "amount": "600",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Pork",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Tenderloin",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Prawn",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Tom Yam Noodle soup but not tom yam (Rice Noodle)",
+        "amount": "500",
+        "ingredients": "Spicy and sour noodles broth with aromatic Thai herbs and chillies"
+      },
+      {
+        "id": 7,
+        "title": "Chicken",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Prawn",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Pork",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Tenderloin",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "Hot and Spicy Kimchi Noodle soup (Ramen noodle)",
+        "amount": "550",
+        "ingredients": "Spicy & fermented cabbage khimchi broth with ramen noodles"
+      },
+      {
+        "id": 12,
+        "title": "Chicken",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "Pork",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 14,
+        "title": "Tenderloin",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 15,
+        "title": "Prawn",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 16,
+        "title": "Miso & Sweet Corn Ramen (Ramen Noodle)",
+        "amount": "550",
+        "ingredients": "Umami rich miso flavoured broth with sweetcorn and Asian veggies"
+      },
+      {
+        "id": 17,
+        "title": "Chicken",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 18,
+        "title": "Pork",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 19,
+        "title": "Tenderloin",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 20,
+        "title": "Prawn",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 21,
+        "title": "Shoyu Ramen (Ramen Noodle)",
+        "amount": "550",
+        "ingredients": "Clear soya sauce and dashi broth with ramen noodles"
+      },
+      {
+        "id": 22,
+        "title": "Chicken",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 23,
+        "title": "Pork",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 24,
+        "title": "Tenderloin",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 25,
+        "title": "Prawn",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 26,
+        "title": "Sukhothai Noodle (Rice Noodle)",
+        "amount": "600",
+        "ingredients": "chicken and boiled egg with spicy broth , peanuts , long beans, bean sprout and crispy wanton skin"
+      },
+      {
+        "id": 27,
+        "title": "Chicken Paitan Ramen (Ramen Noodle)",
+        "amount": "700",
+        "ingredients": "Rich and aromatic chicken broth with tare"
+      },
+      {
+        "id": 28,
+        "title": "PorkTonkotsu Ramen (Ramen Noodle)",
+        "amount": "850",
+        "ingredients": "Traaditional Japanese style ramen with rich pork broth and tare"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "NOODLES",
+    "type": "(12.00pm-3.30pm & 7.00pm-11.30pm)",
+    "values": [
+      {
+        "id": 1,
+        "title": "Dan Dan noodels",
+        "amount": "550",
+        "ingredients": "stir fried noodle's with spicy chilly oil, Sichuan peppers, minced vegetable's/ chicken garlic & scallions"
+      },
+      {
+        "id": 2,
+        "title": "Phad thai",
+        "amount": "550",
+        "ingredients": "Stir fried rice noodle, beansprout and peanut with phad thai sauce"
+      },
+      {
+        "id": 3,
+        "title": "Phad khee mow",
+        "amount": "500",
+        "ingredients": "Stir fried rice noodle with thai chilly and basil"
+      },
+      {
+        "id": 4,
+        "title": "Stir fried eggless noodle",
+        "amount": "475",
+        "ingredients": "Thin eggless noodles tossed with thai chilli paste, veggies and spring onions"
+      },
+      {
+        "id": 5,
+        "title": "Schezwan noodle",
+        "amount": "475",
+        "ingredients": "Stir fried soft noodles in spicy homemade schezwan sauce"
+      },
+      {
+        "id": 6,
+        "title": "Chicken",
+        "amount": "150",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Prawns",
+        "amount": "175",
+        "ingredients": "DESSERTS"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "DESSERTS",
+    "type": "-",
+    "values": [
+      {
+        "id": 1,
+        "title": "Honey toast",
+        "amount": "450",
+        "ingredients": "Toast bread with caramel sauce and crushed peanuts served with sesame or coconut ice cream"
+      },
+      {
+        "id": 2,
+        "title": "Champagne vanilla pannacotta",
+        "amount": "750",
+        "ingredients": "Champagne dessert, crumble, champagne jelly, ricotta & strawberry ice cream"
+      },
+      {
+        "id": 3,
+        "title": "Mille feuille",
+        "amount": "600",
+        "ingredients": "Puff pastry, vanilla custard, poached fruit, chantilly and vanilla ice cream"
+      },
+      {
+        "id": 4,
+        "title": "Choco lava cake",
+        "amount": "600",
+        "ingredients": "Gooey chocolate cake, raspberry coulie, chocolate soil served with vanilla ice cream"
+      },
+      {
+        "id": 5,
+        "title": "chocolate fudge brownie",
+        "amount": "550",
+        "ingredients": "hot chocolate brownie served with vanilla ice cream and chocolate sauce"
+      },
+      {
+        "id": 6,
+        "title": "Gianduja flambe explosion",
+        "amount": "700",
+        "ingredients": "Gianduja custard, hazelnut crunch, roasted almond ice cream with flambe liquor"
+      },
+      {
+        "id": 7,
+        "title": "Gianduja chocolate explosion",
+        "amount": "650",
+        "ingredients": "Hazelnut crunch, gianduja custard & roasted almond ice cream, dripping with hot chocolate sauce"
+      },
+      {
+        "id": 8,
+        "title": "Rocky road",
+        "amount": "625",
+        "ingredients": "Chocolate caviars, chocolate mousse, flexible ganache served with hazelnut ice cream"
+      },
+      {
+        "id": 9,
+        "title": "churros",
+        "amount": "525",
+        "ingredients": "a Spanish and Mexican pastry made from deep-fried unsweetened dough and sprinkled with sugar & cinnammon powder."
+      },
+      {
+        "id": 10,
+        "title": "tres leches",
+        "amount": "600",
+        "ingredients": "sponge cake soaked in a mixture of condensed milk, evaporated milk, and cream & garnished with fresh fruits"
+      },
+      {
+        "id": 11,
+        "title": "hot cookie fudge",
+        "amount": "650",
+        "ingredients": "freshely baked choco chunk cookie with gooey chocolate cake served with vanilla ice-cream"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "SPECIAL OF THE MONTH MOCKTAIL",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Saffron delight",
+        "amount": "250",
+        "ingredients": "Cashewnut, almond, pistachio, Raisins, Rose and Saffron"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "SPECIAL OF THE MONTH COCKTAIL",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Saffron Highball",
+        "amount": "600",
+        "ingredients": "Saffron Infused Vodka, Lime Juice, Twist Orange juice, and Tonic water"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "FEU SIGNATURE COCKTAILS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Salted Caramel Whiskey Sour",
+        "amount": "550",
+        "ingredients": "Bourbon Whiskey, Salted Caramel, Egg White, Lime Jc"
+      },
+      {
+        "id": 2,
+        "title": "Feu Signature",
+        "amount": "550",
+        "ingredients": "Blended Whiskey, Aquafaba, Lime Jc, Simple Syrup"
+      },
+      {
+        "id": 3,
+        "title": "Basil Pop",
+        "amount": "550",
+        "ingredients": "Vodka, Basil, Black Peppercorns, Lime Jc, Simple Syrup"
+      },
+      {
+        "id": 4,
+        "title": "Botanic",
+        "amount": "550",
+        "ingredients": "Gin, Cilantro, Litchi Jc, Apple Jc, Pepper, Simple Syrup"
+      },
+      {
+        "id": 5,
+        "title": "The Alchemist",
+        "amount": "550",
+        "ingredients": "Vodka, Cucumber, Elderflower Syrup, Lime Jc, Red Velvet Dust"
+      },
+      {
+        "id": 6,
+        "title": "Bramble",
+        "amount": "550",
+        "ingredients": "Gin, Berry Syrup, Lime Jc, Simple Syrup, Mint, Berry"
+      },
+      {
+        "id": 7,
+        "title": "Crimson",
+        "amount": "550",
+        "ingredients": "Vodka, Raspberry puree, elderflower syrup, lime, aquafaba"
+      },
+      {
+        "id": 8,
+        "title": "Flower Garden",
+        "amount": "550",
+        "ingredients": "Indian Gin, Hibiscus Syrup, kafir lime leaf, tropical pineapple juice, citric acid"
+      },
+      {
+        "id": 9,
+        "title": "Spicy soul",
+        "amount": "650",
+        "ingredients": "Tequila blanco infused bird eye chill, lime, fresh pineapple juice, strawberry puree"
+      },
+      {
+        "id": 10,
+        "title": "White lady",
+        "amount": "550",
+        "ingredients": "Gin, lime, triple sec, vanilla essence, egg white,"
+      },
+      {
+        "id": 11,
+        "title": "Indian sour",
+        "amount": "600",
+        "ingredients": "indian gin, lime jc, lemon jc, honey, turmeric & ginger candy"
+      },
+      {
+        "id": 12,
+        "title": "Cremẽ De Coco",
+        "amount": "550",
+        "ingredients": "Bacardi lite rum, espresso, condensed milk, triplesec"
+      },
+      {
+        "id": 13,
+        "title": "Goose Berry Blossom",
+        "amount": "650",
+        "ingredients": "Choice of alcohol (vodka/Gin/Tequila) in house grown Amla fresh mint, lime jc, simple syrup, pinch of pink salt, barman special candy"
+      },
+      {
+        "id": 14,
+        "title": "Crimson Garnet",
+        "amount": "550",
+        "ingredients": "Whisky with muddled Pomegranate, Rosemary and a hint of Cinnamon"
+      },
+      {
+        "id": 15,
+        "title": "Pabana Hawaiian",
+        "amount": "550",
+        "ingredients": "Rum shaken with pabana purée and triple sec"
+      },
+      {
+        "id": 16,
+        "title": "Spritz Veneziano",
+        "amount": "650",
+        "ingredients": "Apreol, Sparkling Wine, Soda"
+      },
+      {
+        "id": 17,
+        "title": "Martini",
+        "amount": "450",
+        "ingredients": "Classic, Dirty"
+      },
+      {
+        "id": 18,
+        "title": "Choice Of Margarita",
+        "amount": "550",
+        "ingredients": "classic"
+      },
+      {
+        "id": 19,
+        "title": "strawberry/mango/tamarind/ banana & coconut",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 20,
+        "title": "Choice Of Long Island Tea",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 21,
+        "title": "Classic, Long Beach Tea, Texas Tea, Hawaiian Iced Tea",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 22,
+        "title": "Mai Thai",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 23,
+        "title": "Caipirinha",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 24,
+        "title": "Moscow mule",
+        "amount": "550",
+        "ingredients": "vodka,lime, ginger Ale"
+      },
+      {
+        "id": 25,
+        "title": "redwine sangria",
+        "amount": "650",
+        "ingredients": "redwine, fresh fruits, triple sec & peach"
+      },
+      {
+        "id": 26,
+        "title": "Cosmopolitan",
+        "amount": "550",
+        "ingredients": "vodka, lime jc, triple sec, cranberry"
+      },
+      {
+        "id": 27,
+        "title": "Daiquiri",
+        "amount": "550",
+        "ingredients": "light rum, lime jc, simple syrup"
+      },
+      {
+        "id": 28,
+        "title": "Bloody mary",
+        "amount": "550",
+        "ingredients": "vodka, tomato jc, lime jc, worcestershire sauce, pepper, celery"
+      },
+      {
+        "id": 29,
+        "title": "Caipiroska",
+        "amount": "550",
+        "ingredients": "vodka, lime, brown suger"
+      },
+      {
+        "id": 30,
+        "title": "Mimosa",
+        "amount": "600",
+        "ingredients": "sparkling wine, fresh orange jc"
+      },
+      {
+        "id": 31,
+        "title": "old fashinoed",
+        "amount": "600",
+        "ingredients": "bourbon whiskey, angostura & orange bitters, brown suger"
+      },
+      {
+        "id": 32,
+        "title": "whiskey sour",
+        "amount": "550",
+        "ingredients": "bourbon whiskey, eggwhite, simple syrup, lime jc"
+      },
+      {
+        "id": 33,
+        "title": "NEGRONI",
+        "amount": "850",
+        "ingredients": "Gin,Red Vermouth,Campari."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "SHOTS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Jager Bomb",
+        "amount": "750",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Woo Woo",
+        "amount": "400",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Kamikaze",
+        "amount": "400",
+        "ingredients": "BLENDED WHISKY"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "BLENDED WHISKY",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Hibiki",
+        "amount": "1700",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Monkey Shoulder",
+        "amount": "575",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "JW Double Black Label",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "JW Black Label",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Chivas Regal 18YO",
+        "amount": "950",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Chivas Regal 12 YO",
+        "amount": "500",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "J&B rare",
+        "amount": "375",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "black dog triple gold reserve",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Ballantine's 12 YO",
+        "amount": "499",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "100 Pipers",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "100 Pipers 8YO",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 12,
+        "title": "Teachers Hingland Cream",
+        "amount": "275",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "William Lawson's",
+        "amount": "275",
+        "ingredients": "SINGLE MALT WHISKY"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "SINGLE MALT WHISKY",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Glenfiddich 18 YO",
+        "amount": "1500",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Glenfiddich 12 YO",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Glenmorangie",
+        "amount": "800",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Taliskar 10 YO",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Paul Jhon nirvana",
+        "amount": "500",
+        "ingredients": "BOURBON WHISKY"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "BOURBON WHISKY",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Jack Daniels",
+        "amount": "450",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Jameson Irish whiskey",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Jim Beam",
+        "amount": "350",
+        "ingredients": "VODKA"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "VODKA",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Belvedere",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Grey Goose",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Ketel One",
+        "amount": "325",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Russian standard",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Absolute Blue",
+        "amount": "300",
+        "ingredients": "GIN"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "GIN",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Hendricks",
+        "amount": "700",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Tanqueray",
+        "amount": "325",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Bombay Sapphire",
+        "amount": "325",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Greater Than Gin",
+        "amount": "300",
+        "ingredients": "TEQUILA"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "TEQUILA",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Jose Cuervo",
+        "amount": "500",
+        "ingredients": "Buen Amigo"
+      },
+      {
+        "id": 2,
+        "title": "30 Ml",
+        "amount": "400",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "By Bottle",
+        "amount": "9000",
+        "ingredients": "RUM"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "RUM",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Bacardi White",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Old Monk",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Bacardi black",
+        "amount": "200",
+        "ingredients": "LIQUEURS"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "LIQUEURS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Jagermaister",
+        "amount": "650",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Baileys",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Triple sec",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Kahlua",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Campari",
+        "amount": "450",
+        "ingredients": "COGNAC & BRANDY"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "COGNAC & BRANDY",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Martell VS",
+        "amount": "600",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Morpheus",
+        "amount": "250",
+        "ingredients": "APERITIF"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "APERITIF",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Aperol",
+        "amount": "399",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Campari",
+        "amount": "450",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Martini rosso",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Martini Extra Dry",
+        "amount": "250",
+        "ingredients": "RED WINES"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "RED WINES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Man Family Shiraz, South Africa (By BTL)",
+        "amount": "8000",
+        "ingredients": "Jacobs Creek Merlot"
+      },
+      {
+        "id": 2,
+        "title": "BY BOTTLE",
+        "amount": "5500",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "BY GLASS",
+        "amount": "1150",
+        "ingredients": "Sula Satori Tempranillo, India"
+      },
+      {
+        "id": 4,
+        "title": "BY BOTTLE",
+        "amount": "3300",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "BY GLASS",
+        "amount": "700",
+        "ingredients": "fratelli france shiraz"
+      },
+      {
+        "id": 6,
+        "title": "BY Bottle",
+        "amount": "3300",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "BY GLASS",
+        "amount": "700",
+        "ingredients": "Jacobs Creek Chardonnay"
+      },
+      {
+        "id": 8,
+        "title": "By Glass",
+        "amount": "1150",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "By Bottle",
+        "amount": "5500",
+        "ingredients": "white wines"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "WHITE WINES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Fantini Pinot Grigio, Italy (By BTL)",
+        "amount": "10000",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Primo Chordonny Malvasía, Italy (By BTL)",
+        "amount": "9000",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Balck Tower Reisling, Germany (By BTL)",
+        "amount": "7000",
+        "ingredients": "KRSMA Sauvignon Blanc, India (By GLS)"
+      },
+      {
+        "id": 4,
+        "title": "BY BOTTLE",
+        "amount": "5500",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "BY GLASS",
+        "amount": "1150",
+        "ingredients": "Sula Cheninblanc"
+      },
+      {
+        "id": 6,
+        "title": "BY BOTTLE",
+        "amount": "3300",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "BY GLASS",
+        "amount": "700",
+        "ingredients": "fratelli chardonnay"
+      },
+      {
+        "id": 8,
+        "title": "BY BOTTLE",
+        "amount": "2800",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "BY GLASS",
+        "amount": "600",
+        "ingredients": "Nederburg Savignon Blanc"
+      },
+      {
+        "id": 10,
+        "title": "By Bottle",
+        "amount": "9499",
+        "ingredients": "ROSE WINES"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "ROSE WINES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "BY BOTTLE",
+        "amount": "2500",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "BY GLASS",
+        "amount": "550",
+        "ingredients": "CHAMPAGNE / SPARKLING WINE"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "CHAMPAGNE / SPARKLING WINE",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "NOI Sparkling By GLS",
+        "amount": "700",
+        "ingredients": "BEERS AND BEER BUCKETS"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "BEERS AND BEER BUCKETS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Corona Extra",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Corona Extra bucket of 6",
+        "amount": "2750",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Bira 91 (White)",
+        "amount": "550",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Bira 91 White bucket of 6",
+        "amount": "2750",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "heiniken",
+        "amount": "400",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "heiniken bucket of 6",
+        "amount": "2000",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Budweiser Premium",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Budweiser Premium bucket of 6",
+        "amount": "1750",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Bira 91 (Blonde)",
+        "amount": "399",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Bira 91 Blonde bucket of 6",
+        "amount": "1995",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "Kingfisher Ultra",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 12,
+        "title": "Kingfisher Ultra bucket of 6",
+        "amount": "1750",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "Kingfisher Premium",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 14,
+        "title": "King Fisher Premium bucket of 6",
+        "amount": "1500",
+        "ingredients": "BREEZERS"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "BREEZERS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Breezer (cranberry)",
+        "amount": "350",
+        "ingredients": "MOCKTAILS"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "MOCKTAILS",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Sakura (Japanese flower)",
+        "amount": "300",
+        "ingredients": "Kaffir lime leaf, lemongrass, cranberry, ginger ale"
+      },
+      {
+        "id": 2,
+        "title": "Aroi mak (delicious)",
+        "amount": "275",
+        "ingredients": "Carrot, guava, mint, lime, sugar"
+      },
+      {
+        "id": 3,
+        "title": "Preaw (sour)",
+        "amount": "300",
+        "ingredients": "Orange, passion fruit, lime, tonic"
+      },
+      {
+        "id": 4,
+        "title": "Sod chuan (refreshing)",
+        "amount": "300",
+        "ingredients": "Grapefruit, cinnamon syrup, basil, tonic"
+      },
+      {
+        "id": 5,
+        "title": "Virgin feu",
+        "amount": "300",
+        "ingredients": "Watermelon, cantaloupe, elderflower syrup"
+      },
+      {
+        "id": 6,
+        "title": "Thai cold coffee",
+        "amount": "250",
+        "ingredients": "Thai style authentic coffee"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "SOFT BEVERAGES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Red Bull (served by glass)",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Coke (served by glass)",
+        "amount": "125",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Diet Coke (served by glass)",
+        "amount": "120",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Sprite (by glass)",
+        "amount": "100",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Ginger Ale (by galss)",
+        "amount": "125",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Tonic Water (by glass)",
+        "amount": "125",
+        "ingredients": "Hydra Kombucha"
+      },
+      {
+        "id": 7,
+        "title": "Pineapple express",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Pomegranate Basil",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Grape rosemary",
+        "amount": "350",
+        "ingredients": "Fresh Fruit Juices"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "FRESH FRUIT JUICES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Fresh Orange juice 🍊",
+        "amount": "415",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Watermelon 🍉 juice",
+        "amount": "250",
+        "ingredients": "-"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "HOT COFFEE",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Espresso",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Caffe macchiato",
+        "amount": "180",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Cortado",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Mocha cortado",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Caffe latte",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Americano",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Cappuccino",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Flat white",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Vanilla latte",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Hazelnut latte",
+        "amount": "240",
+        "ingredients": "-"
+      },
+      {
+        "id": 11,
+        "title": "Salted caramel coffee",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 12,
+        "title": "Caffe mocha",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 13,
+        "title": "Chocolate caramel coffee",
+        "amount": "280",
+        "ingredients": "-"
+      },
+      {
+        "id": 14,
+        "title": "Caramel mocha",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 15,
+        "title": "Hazelnut mocha crumble",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 16,
+        "title": "Crunchy mocha crumble",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 17,
+        "title": "Cocoa cappuccino",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 18,
+        "title": "White chocolate mocha",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 19,
+        "title": "Caramel macchiato",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 20,
+        "title": "White caramel mocha",
+        "amount": "300",
+        "ingredients": "NEW ON MENU COFFEES"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "NEW ON MENU COFFEES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "cinnamon latte",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Nutella butter latte (hot/cold)",
+        "amount": "350/400",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Guava frappuccino",
+        "amount": "350",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Kit Kat Loaded Milkshake",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Choco pie Loaded Milkshake",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Almond Macchiato",
+        "amount": "300",
+        "ingredients": "ICED COFFEE"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "ICED COFFEE",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Iced latte",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Iced latte sweetened",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Iced mocha",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Iced coffee mint",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Iced americano",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Iced salted caramel",
+        "amount": "280",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Iced hazelnut",
+        "amount": "240",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Iced vanilla",
+        "amount": "240",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "Vietnamese Coffee",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "thai bubble cold coffee",
+        "amount": "350",
+        "ingredients": "FRAPPUCCINO"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "FRAPPUCCINO",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Caffe frappe",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Coffee mocha",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Chocolate chip frappe",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Caramel frappe",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "White mocha frappe",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Crunchy mocha crumble frappe",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 7,
+        "title": "Caramel mocha",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 8,
+        "title": "Rose",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 9,
+        "title": "To die for (Neutella)",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 10,
+        "title": "Peanut butter banana frappe",
+        "amount": "300",
+        "ingredients": "BREWED COFFEE"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "BREWED COFFEE",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Pour over",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "French press",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Cold brew",
+        "amount": "220",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Cold brew cranberry",
+        "amount": "250",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Cold brew vanilla",
+        "amount": "250",
+        "ingredients": "MILKSHAKES"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "MILKSHAKES",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Strawberry milkshake",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Oreo milkshake",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Nutella milkshake",
+        "amount": "300",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Brownie milkshake",
+        "amount": "300",
+        "ingredients": "TEA (HOT & COLD)"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "TEA (HOT & COLD)",
+    "type": "Must try",
+    "values": [
+      {
+        "id": 1,
+        "title": "Hibiscus",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 2,
+        "title": "Chamomile",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 3,
+        "title": "Rose oolong",
+        "amount": "200",
+        "ingredients": "-"
+      },
+      {
+        "id": 4,
+        "title": "Green tea",
+        "amount": "100",
+        "ingredients": "-"
+      },
+      {
+        "id": 5,
+        "title": "Iced shaken hibiscus lemonade",
+        "amount": "280",
+        "ingredients": "-"
+      },
+      {
+        "id": 6,
+        "title": "Thai bubble tea",
+        "amount": "350",
+        "ingredients": "THAI NEW MENU"
+      }
+    ]
+  }
+]
